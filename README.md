@@ -16,4 +16,4 @@ The program must fulfill the following conditions:
 - adding available money to one of the accounts (no more than the user has);
 - transfer from one account to another (not exceeding the limit on the card); 
 
-Technologies that were used - Spring boot, Hibernate, h2, для интерфейса или Thymleaf или JS.
+Technologies that were used - Spring boot, Hibernate, h2, Thymleaf .
